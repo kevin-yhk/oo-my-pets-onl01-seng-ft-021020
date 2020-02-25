@@ -7,4 +7,6 @@ class Cat
     @owner = owner
     @mood = mood
   end 
+  
+  
 end
